@@ -58,8 +58,11 @@ namespace CheckpointJaakko
 
         public static string AskFirstLetter()
         {
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> features/newfeature
             while (true)
             {
                 Console.WriteLine("Enter first letter");
@@ -75,6 +78,10 @@ namespace CheckpointJaakko
                     continue;
                 }
             }
+<<<<<<< HEAD
+=======
+            
+>>>>>>> features/newfeature
         }
 
         // asking user last letter with some robust mechanics
