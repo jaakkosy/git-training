@@ -1,0 +1,16 @@
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\CheckpointPrep.exe
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\CheckpointPrep.deps.json
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\CheckpointPrep.runtimeconfig.json
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\CheckpointPrep.runtimeconfig.dev.json
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\CheckpointPrep.dll
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\ref\CheckpointPrep.dll
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\bin\Debug\net5.0\CheckpointPrep.pdb
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.csproj.AssemblyReference.cache
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.AssemblyInfoInputs.cache
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.AssemblyInfo.cs
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.csproj.CoreCompileInputs.cache
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.dll
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\ref\CheckpointPrep.dll
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.pdb
+C:\Users\JaakkoSyrjämäki\source\repos\CheckpointPrep\CheckpointPrep\obj\Debug\net5.0\CheckpointPrep.genruntimeconfig.cache
