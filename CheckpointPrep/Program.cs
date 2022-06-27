@@ -58,14 +58,23 @@ namespace CheckpointJaakko
 
         public static string AskFirstLetter()
         {
-            Console.WriteLine("Enter first letter");
 
-            Console.WriteLine("write only one character!!!");
-            Console.WriteLine("dont write more than one character!!");
-            string firstLetter = Console.ReadLine();
-            Console.WriteLine("if you write more than one character this doesnt work!!!!!");
-            Console.WriteLine("Come on you must try harder!!!");
-            return firstLetter.ToUpper();
+
+            while (true)
+            {
+                Console.WriteLine("Enter first letter");
+                string firstLetter = Console.ReadLine();
+
+                if (firstLetter.Length == 1)
+                {
+                    return firstLetter.ToUpper();
+                }
+                else
+                {
+                    Console.WriteLine("Enter only one character!");
+                    continue;
+                }
+            }
         }
 
         // asking user last letter with some robust mechanics
