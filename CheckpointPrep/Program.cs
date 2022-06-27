@@ -59,7 +59,12 @@ namespace CheckpointJaakko
         public static string AskFirstLetter()
         {
             Console.WriteLine("Enter first letter");
+
+            Console.WriteLine("write only one character!!!");
+            Console.WriteLine("dont write more than one character!!");
             string firstLetter = Console.ReadLine();
+            Console.WriteLine("if you write more than one character this doesnt work!!!!!");
+            Console.WriteLine("Come on you must try harder!!!");
             return firstLetter.ToUpper();
         }
 
